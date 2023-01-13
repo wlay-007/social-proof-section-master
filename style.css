@@ -24,7 +24,7 @@ body{
     min-height: 100vh;
 }
 .bg-image-top{
-    background-image: url(/images/bg-pattern-top-desktop.svg);
+    background-image: url(images/bg-pattern-top-desktop.svg);
     position: absolute;
     width: 584px;
     height: 363px;
@@ -32,7 +32,7 @@ body{
     left: 0;
 }
 .bg-image-down{
-    background-image: url(/images/bg-pattern-bottom-desktop.svg);
+    background-image: url(images/bg-pattern-bottom-desktop.svg);
     position: absolute;
     width: 1085px;
     height: 673px;
@@ -237,12 +237,12 @@ body{
         padding: 50px 0;
     }
     .bg-image-top{
-        background-image: url(/images/bg-pattern-top-mobile.svg);
+        background-image: url(images/bg-pattern-top-mobile.svg);
         width: 374px;
         height: 232px;
     }
     .bg-image-down{
-        background-image: url(/images/bg-pattern-bottom-mobile.svg);
+        background-image: url(images/bg-pattern-bottom-mobile.svg);
         width: 375px;
         height: 503px;
     }
