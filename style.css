@@ -234,7 +234,7 @@ body{
 @media(max-width: 375px){
     .content{
         width: 300px;
-        padding: 50px 0;
+        padding: 50px 10px;
     }
     .bg-image-top{
         background-image: url(images/bg-pattern-top-mobile.svg);
