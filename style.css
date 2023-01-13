@@ -224,6 +224,7 @@ body{
     }
     .card{
         height: 200px;
+        width: 300px;
     }
     .rate{
         width: 100%;
@@ -234,7 +235,7 @@ body{
 @media(max-width: 375px){
     .content{
         width: 300px;
-        padding: 50px 10px;
+        padding: 50px 0;
     }
     .bg-image-top{
         background-image: url(images/bg-pattern-top-mobile.svg);
